@@ -1,0 +1,14 @@
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\bin\Debug\netcoreapp2.2\UploadArquivosAPI.deps.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\bin\Debug\netcoreapp2.2\UploadArquivosAPI.runtimeconfig.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\bin\Debug\netcoreapp2.2\UploadArquivosAPI.runtimeconfig.dev.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\bin\Debug\netcoreapp2.2\UploadArquivosAPI.dll
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\obj\Debug\netcoreapp2.2\UploadArquivosAPI.csproj.CoreCompileInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\obj\Debug\netcoreapp2.2\UploadArquivosAPI.RazorAssemblyInfo.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\obj\Debug\netcoreapp2.2\UploadArquivosAPI.RazorAssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\obj\Debug\netcoreapp2.2\UploadArquivosAPI.AssemblyInfoInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\obj\Debug\netcoreapp2.2\UploadArquivosAPI.AssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\obj\Debug\netcoreapp2.2\UploadArquivosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\bin\Debug\netcoreapp2.2\UploadArquivosAPI.pdb
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\obj\Debug\netcoreapp2.2\UploadArquivosAPI.dll
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\obj\Debug\netcoreapp2.2\UploadArquivosAPI.pdb
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\upload-arquivos-reactjs\Backend\UploadArquivosAPI\UploadArquivosAPI\obj\Debug\netcoreapp2.2\UploadArquivosAPI.csprojAssemblyReference.cache
